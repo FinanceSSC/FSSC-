@@ -1,2 +1,2 @@
-# FSSC-
- https://financessc.github.io/FSSC-/
+# FSSC1
+ https://financessc.github.io/FSSC1/
